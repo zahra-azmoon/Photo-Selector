@@ -2,8 +2,8 @@
 a simple C# Windows Forms app to select an image from gallery and display it
 ---
 ## Features
--select an image 
--display the selected image on the form
+>select an image 
+>display the selected image on the form
 ---
 ## Technologies & Tools
 -C#
