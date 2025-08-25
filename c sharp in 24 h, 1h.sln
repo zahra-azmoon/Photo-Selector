@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c sharp in 24 h, 1h", "c sharp in 24 h, 1h\c sharp in 24 h, 1h.csproj", "{082BC616-657F-4E11-8743-AAF171009F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{082BC616-657F-4E11-8743-AAF171009F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082BC616-657F-4E11-8743-AAF171009F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082BC616-657F-4E11-8743-AAF171009F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082BC616-657F-4E11-8743-AAF171009F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3595FC47-0EC2-4AD0-8155-96EC7211DAE4}
+	EndGlobalSection
+EndGlobal
